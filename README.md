@@ -1,2 +1,2 @@
-# GraduationProject
-BBC News Articles Dataset 
+# Graduation Project
+BBC News Articles Dataset & Alarabia Arabic Dataset 
